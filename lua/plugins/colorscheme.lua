@@ -54,7 +54,6 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "tokyonight",
-      opacity = 0.9,
     },
   },
 }
